@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hey there 👋
+# 👋 Hey there, I’m Shashwot K.C.
 
-<!--
-**shashwot2/shashwot2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer who loves building clean, functional, and thoughtful digital experiences. Whether it’s crafting UIs, writing backend logic, or optimizing pipelines — I’m all about shipping cool stuff that works and delivers value.
 
-Here are some ideas to get you started:
+## 🚀 What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Web wizardry — I build full-stack apps with a focus on performance and accessibility
+- ⚙️ DevOps enjoyer — worked with Terraform, Jenkins, EKS to streamline CI/CD
+
+## 🛠 Tech Stack
+
+**Languages:**  
+TypeScript/JavaScript, Python, C++, Rust, Go
+
+**Frameworks & Tools:**  
+React, Vite, Unreal Engine, TailwindCSS, Three.js, Node.js, Express, PostgreSQL, Docker, Jenkins, Terraform, AWS
+
+**Environments:**  
+Windows with VSCode
+Arch Linux, Hyprland, Neovim, tmux
+
+## 🧠 Currently Exploring
+
+- 🤖 AI-assisted tooling
+- 📦 Custom Linux tooling in Rust
+- 🧱 2.5D portfolio site using Three.js
+
+## 📫 Let’s Connect
+
+- Personal Site: [shashwotkc.me](https://shashwotkc.me) 
+- LinkedIn: [linkedin.com/in/shashwot-kc](https://www.linkedin.com/in/shashwot-kc)
+- Email: shashwotkc007 [at] gmail [dot] com
