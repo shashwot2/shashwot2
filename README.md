@@ -1,4 +1,3 @@
-## Hey there 👋
 # 👋 Hey there, I’m Shashwot K.C.
 
 I'm a full-stack developer who loves building clean, functional, and thoughtful digital experiences. Whether it’s crafting UIs, writing backend logic, or optimizing pipelines — I’m all about shipping cool stuff that works and delivers value.
