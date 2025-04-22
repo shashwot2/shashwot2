@@ -1,11 +1,10 @@
 # 👋 Hey there, I’m Shashwot K.C.
 
-I'm a full-stack developer who loves building clean, functional, and thoughtful digital experiences. Whether it’s crafting UIs, writing backend logic, or optimizing pipelines — I’m all about shipping cool stuff that works and delivers value.
+I'm a full-stack developer who loves building clean, functional, and thoughtful digital experiences. Whether it’s crafting UIs, writing backend logic, or optimizing pipelines. I’m all about shipping cool stuff that works and delivers value.
 
-## 🚀 What I do
+## What I do
 
-- 🌐 Web wizardry — I build full-stack apps with a focus on performance and accessibility
-- ⚙️ DevOps enjoyer — worked with Terraform, Jenkins, EKS to streamline CI/CD
+- Web wizardry — I build full-stack apps with a focus on user value, performance and accessibility
 
 ## 🛠 Tech Stack
 
@@ -19,13 +18,12 @@ React, Vite, Unreal Engine, TailwindCSS, Three.js, Node.js, Express, PostgreSQL,
 Windows with VSCode
 Arch Linux, Hyprland, Neovim, tmux
 
-## 🧠 Currently Exploring
+##  Currently Exploring
+- Deno
+- Embedded/low level programming
+- Custom Linux tooling in Rust
 
-- 🤖 AI-assisted tooling
-- 📦 Custom Linux tooling in Rust
-- 🧱 2.5D portfolio site using Three.js
-
-## 📫 Let’s Connect
+## Let’s Connect
 
 - Personal Site: [shashwotkc.me](https://shashwotkc.me) 
 - LinkedIn: [linkedin.com/in/shashwot-kc](https://www.linkedin.com/in/shashwot-kc)
